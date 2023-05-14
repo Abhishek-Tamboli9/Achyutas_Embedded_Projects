@@ -1,0 +1,29 @@
+km@KernelMasters:~/Achyutas/workspace/Embedded_linux/Assignments/Bash/2-Advanced_cmd$ free 
+              total        used        free      shared  buff/cache   available
+Mem:        2588384     1879856      199276       30428      509252      509716
+Swap:       2097148       26124     2071024
+
+km@KernelMasters:~/Achyutas/workspace/Embedded_linux/Assignments/Bash/2-Advanced_cmd$ free -h
+              total        used        free      shared  buff/cache   available
+Mem:           2.5G        1.8G        194M         29M        497M        498M
+Swap:          2.0G         25M        2.0G
+
+km@KernelMasters:~/Achyutas/workspace/Embedded_linux/Assignments/Bash/2-Advanced_cmd$ free -b
+              total        used        free      shared  buff/cache   available
+Mem:     2650505216  1923858432   205152256    31170560   521494528   523051008
+Swap:    2147479552    26750976  2120728576
+
+km@KernelMasters:~/Achyutas/workspace/Embedded_linux/Assignments/Bash/2-Advanced_cmd$ free -k
+              total        used        free      shared  buff/cache   available
+Mem:        2588384     1877992      201100       30452      509292      511556
+Swap:       2097148       26124     2071024
+
+km@KernelMasters:~/Achyutas/workspace/Embedded_linux/Assignments/Bash/2-Advanced_cmd$ free -m
+              total        used        free      shared  buff/cache   available
+Mem:           2527        1832         197          29         497         500
+Swap:          2047          25        2022
+
+km@KernelMasters:~/Achyutas/workspace/Embedded_linux/Assignments/Bash/2-Advanced_cmd$ free -g
+              total        used        free      shared  buff/cache   available
+Mem:              2           1           0           0           0           0
+Swap:             1           0           1
