@@ -1,0 +1,12 @@
+km@KernelMasters:~/bitwise$ ls
+10_odd-even.c  14_setbits.c  3_int.c  7_sizeof.c      a.out        bit.    int          odd-even  setbits-bkp.c  xor
+11_powerof2.c  15_swap.c     4_sub.c  8_endian.c      binary       bit.c   macro        powerof2  sizeof
+12_reverse.c   1_macro.c     5_add.c  9_multiply_n.c  binarynew    check   multiply     reverse   sub
+13_check.c     2_binary.c    6_xor.c  add             binarynew.c  endian  multiply2.c  setbits   swap
+
+km@KernelMasters:~/bitwise$ mv add ../
+km@KernelMasters:~/bitwise$ ls
+10_odd-even.c  13_check.c    1_macro.c   4_sub.c  7_sizeof.c      a.out      binarynew.c  check   macro        odd-even  setbits        sub
+11_powerof2.c  14_setbits.c  2_binary.c  5_add.c  8_endian.c      binary     bit.         endian  multiply     powerof2  setbits-bkp.c  swap
+12_reverse.c   15_swap.c     3_int.c     6_xor.c  9_multiply_n.c  binarynew  bit.c        int     multiply2.c  reverse   sizeof         xor
+

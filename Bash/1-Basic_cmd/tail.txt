@@ -1,0 +1,10 @@
+  <text class="left" x="45.000" y="6014.000">Deactivating</text>
+  <rect class="security" x="0.000" y="6020.000" width="30.000" height="19.000" />
+  <text class="left" x="45.000" y="6034.000">Setting up security module</text>
+  <rect class="generators" x="0.000" y="6040.000" width="30.000" height="19.000" />
+  <text class="left" x="45.000" y="6054.000">Generators</text>
+  <rect class="unitsload" x="0.000" y="6060.000" width="30.000" height="19.000" />
+  <text class="left" x="45.000" y="6074.000">Loading unit files</text>
+</g>
+
+</svg>

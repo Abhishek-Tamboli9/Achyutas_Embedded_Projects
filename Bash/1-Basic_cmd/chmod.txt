@@ -1,0 +1,9 @@
+km@KernelMasters:~/Achyutas/workspace/Embedded_linux/Assignments/Bash/1-Basic_cmd$ vi bash.sh
+
+km@KernelMasters:~/Achyutas/workspace/Embedded_linux/Assignments/Bash/1-Basic_cmd$ ls -l bash.sh 
+-rw-rw-r-- 1 km km 0 May 14 10:53 bash.sh
+
+km@KernelMasters:~/Achyutas/workspace/Embedded_linux/Assignments/Bash/1-Basic_cmd$ chmod +x bash.sh 
+
+km@KernelMasters:~/Achyutas/workspace/Embedded_linux/Assignments/Bash/1-Basic_cmd$ ls -l bash.sh 
+-rwxrwxr-x 1 km km 0 May 14 10:53 bash.sh

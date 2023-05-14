@@ -1,0 +1,8 @@
+PING google.com(bom07s37-in-x0e.1e100.net (2404:6800:4009:82e::200e)) 56 data bytes
+64 bytes from bom07s37-in-x0e.1e100.net (2404:6800:4009:82e::200e): icmp_seq=1 ttl=118 time=21.8 ms
+64 bytes from bom07s37-in-x0e.1e100.net (2404:6800:4009:82e::200e): icmp_seq=2 ttl=118 time=22.2 ms
+64 bytes from bom07s37-in-x0e.1e100.net (2404:6800:4009:82e::200e): icmp_seq=3 ttl=118 time=21.3 ms
+
+--- google.com ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2005ms
+rtt min/avg/max/mdev = 21.338/21.789/22.207/0.394 ms

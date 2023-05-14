@@ -1,0 +1,55 @@
+UID        PID  PPID  C STIME TTY          TIME CMD
+gdm       1084  1080  0 09:34 tty1     00:00:00 /usr/lib/gnome-session/gnome-session-binary --autostart /usr/share/gdm/greeter/autostart
+gdm       1106  1084  0 09:34 tty1     00:00:17 /usr/bin/gnome-shell
+gdm       1164  1106  0 09:34 tty1     00:00:00 /usr/bin/Xwayland :1024 -rootless -terminate -accessx -core -listen 4 -listen 5 -displayfd 6
+gdm       1231  1106  0 09:34 tty1     00:00:00 ibus-daemon --xim --panel disable
+gdm       1234  1231  0 09:34 tty1     00:00:00 /usr/lib/ibus/ibus-dconf
+gdm       1237     1  0 09:34 tty1     00:00:00 /usr/lib/ibus/ibus-x11 --kill-daemon
+gdm       1270  1084  0 09:34 tty1     00:00:00 /usr/lib/gnome-settings-daemon/gsd-xsettings
+gdm       1274  1084  0 09:34 tty1     00:00:00 /usr/lib/gnome-settings-daemon/gsd-a11y-settings
+gdm       1275  1084  0 09:34 tty1     00:00:00 /usr/lib/gnome-settings-daemon/gsd-clipboard
+gdm       1276  1084  0 09:34 tty1     00:00:00 /usr/lib/gnome-settings-daemon/gsd-color
+gdm       1279  1084  0 09:34 tty1     00:00:00 /usr/lib/gnome-settings-daemon/gsd-datetime
+gdm       1281  1084  0 09:34 tty1     00:00:00 /usr/lib/gnome-settings-daemon/gsd-housekeeping
+gdm       1282  1084  0 09:34 tty1     00:00:00 /usr/lib/gnome-settings-daemon/gsd-keyboard
+gdm       1285  1084  0 09:34 tty1     00:00:00 /usr/lib/gnome-settings-daemon/gsd-media-keys
+gdm       1287  1084  0 09:34 tty1     00:00:00 /usr/lib/gnome-settings-daemon/gsd-mouse
+gdm       1290  1084  0 09:34 tty1     00:00:00 /usr/lib/gnome-settings-daemon/gsd-power
+gdm       1291  1084  0 09:34 tty1     00:00:00 /usr/lib/gnome-settings-daemon/gsd-print-notifications
+gdm       1293  1084  0 09:34 tty1     00:00:00 /usr/lib/gnome-settings-daemon/gsd-rfkill
+gdm       1294  1084  0 09:34 tty1     00:00:00 /usr/lib/gnome-settings-daemon/gsd-screensaver-proxy
+gdm       1298  1084  0 09:34 tty1     00:00:00 /usr/lib/gnome-settings-daemon/gsd-sharing
+gdm       1302  1084  0 09:34 tty1     00:00:00 /usr/lib/gnome-settings-daemon/gsd-smartcard
+gdm       1307  1084  0 09:34 tty1     00:00:00 /usr/lib/gnome-settings-daemon/gsd-sound
+gdm       1309  1084  0 09:34 tty1     00:00:00 /usr/lib/gnome-settings-daemon/gsd-wacom
+gdm       1362  1231  0 09:34 tty1     00:00:00 /usr/lib/ibus/ibus-engine-simple
+km        1400  1398  0 09:34 tty2     00:00:33 /usr/lib/xorg/Xorg vt2 -displayfd 3 -auth /run/user/1000/gdm/Xauthority -background none -noreset -keeptty -verbose 3
+km        1411  1398  0 09:34 tty2     00:00:00 /usr/lib/gnome-session/gnome-session-binary --session=ubuntu
+km        1586  1411  4 09:34 tty2     00:03:26 /usr/bin/gnome-shell
+km        1624  1586  0 09:35 tty2     00:00:07 ibus-daemon --xim --panel disable
+km        1628  1624  0 09:35 tty2     00:00:00 /usr/lib/ibus/ibus-dconf
+km        1630     1  0 09:35 tty2     00:00:00 /usr/lib/ibus/ibus-x11 --kill-daemon
+km        1723  1411  0 09:35 tty2     00:00:00 /usr/lib/gnome-settings-daemon/gsd-power
+km        1725  1411  0 09:35 tty2     00:00:00 /usr/lib/gnome-settings-daemon/gsd-print-notifications
+km        1726  1411  0 09:35 tty2     00:00:00 /usr/lib/gnome-settings-daemon/gsd-rfkill
+km        1727  1411  0 09:35 tty2     00:00:00 /usr/lib/gnome-settings-daemon/gsd-screensaver-proxy
+km        1728  1411  0 09:35 tty2     00:00:00 /usr/lib/gnome-settings-daemon/gsd-sharing
+km        1730  1411  0 09:35 tty2     00:00:00 /usr/lib/gnome-settings-daemon/gsd-sound
+km        1731  1411  0 09:35 tty2     00:00:00 /usr/lib/gnome-settings-daemon/gsd-xsettings
+km        1736  1411  0 09:35 tty2     00:00:00 /usr/lib/gnome-settings-daemon/gsd-wacom
+km        1738  1411  0 09:35 tty2     00:00:00 /usr/lib/gnome-settings-daemon/gsd-smartcard
+km        1745  1411  0 09:35 tty2     00:00:00 /usr/lib/gnome-settings-daemon/gsd-a11y-settings
+km        1750  1411  0 09:35 tty2     00:00:00 /usr/lib/gnome-settings-daemon/gsd-clipboard
+km        1752  1411  0 09:35 tty2     00:00:00 /usr/lib/gnome-settings-daemon/gsd-color
+km        1756  1411  0 09:35 tty2     00:00:00 /usr/lib/gnome-settings-daemon/gsd-datetime
+km        1758  1411  0 09:35 tty2     00:00:00 /usr/lib/gnome-settings-daemon/gsd-housekeeping
+km        1760  1411  0 09:35 tty2     00:00:00 /usr/lib/gnome-settings-daemon/gsd-keyboard
+km        1761  1411  0 09:35 tty2     00:00:00 /usr/lib/gnome-settings-daemon/gsd-media-keys
+km        1765  1411  0 09:35 tty2     00:00:00 /usr/lib/gnome-settings-daemon/gsd-mouse
+km        1783     1  0 09:35 tty2     00:00:00 /usr/lib/gnome-settings-daemon/gsd-printer
+km        1821  1411  0 09:35 tty2     00:00:00 /usr/lib/gnome-disk-utility/gsd-disk-utility-notify
+km        1926  1624  0 09:35 tty2     00:00:02 /usr/lib/ibus/ibus-engine-simple
+km        2323  1411  0 09:36 tty2     00:00:10 /usr/bin/gnome-software --gapplication-service
+km        2325  1411  0 09:36 tty2     00:00:00 update-notifier
+km        2585  1586  0 09:42 tty2     00:00:21 /usr/bin/python /usr/bin/terminator
+km        3098  2827  0 10:49 pts/1    00:00:00 ps -af

@@ -1,0 +1,4 @@
+total 12
+drwxrwxr-x 2 km km 4096 Apr  3 15:31 reference
+drwxrwxr-x 2 km km 4096 Apr  3 15:31 tutorial
+drwxrwxr-x 5 km km 4096 May 13 16:28 workspace

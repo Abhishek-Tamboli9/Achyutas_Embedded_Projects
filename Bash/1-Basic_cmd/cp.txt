@@ -1,0 +1,15 @@
+km@KernelMasters:~$ ls
+Achyutas                          bootchart-20220922-2152.svg  GIT                  Level-2                     out            snap
+Advanced-c                        C-Basics                     hello                linux-basics                Pictures       Templates
+AT_GIT                            Desktop                      KM_GITHUB            minicom.log                 poky-zeus-bbb  Upload_git
+bitwise                           Documents                    KM_GITLAB            Multithreading_programming  practice       Videos
+boot_analysis.svg                 Downloads                    LDD-OREILLY-example  Music                       Preparation
+boot_analysis.svgsystemd-analyze  EmbeddedLinux-udemy          Level-1              opt                         Public
+
+km@KernelMasters:~$ cp boot_analysis.svg Achyutas/
+
+km@KernelMasters:~$ cd Achyutas/
+
+km@KernelMasters:~/Achyutas$ ls
+boot_analysis.svg  reference  tutorial  workspace
+
