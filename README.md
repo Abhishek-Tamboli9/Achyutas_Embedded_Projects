@@ -7,8 +7,7 @@ C programs, and microcontroller programs.
   2. Folder Structure
   3. Usage
   4. Contributing
-  5. License
-
+  
 ### Introduction
 This repository serves as a centralized location for storing and organizing my daily assignments. 
 The assignments primarily focus on Makefile, Linux cmd's, Shell script, C programming, and microcontroller programming 
@@ -34,7 +33,7 @@ To use the assignments in this repository, follow these steps:
 
   1. Clone the repository to your local machine using the following command:
       git clone https://github.com/your-username/repository-name.git
-  2. Navigate to the desired assignment folder (e.g., makefile, shell_script, c_programs, or microcontroller_programs).
+  2. Navigate to the desired assignment folder (e.g., Makefile, Bash, C, 8051_Basics_examples).
 
   3. Inside each assignment folder, you will find the necessary files and instructions to complete the assignment. Read the assignment description and requirements carefully.
 
@@ -60,9 +59,6 @@ Contributions to this repository are welcome! If you would like to contribute, f
   5. Open a pull request from your branch to the original repository's main branch.
 
   6. Once your pull request is reviewed and accepted, your changes will be merged into the main repository.
-
-### License
-The contents of this repository are under [insert your chosen license here]. Please review the license file for more details.
 
 We hope you find these assignments helpful in your learning journey. 
 If you have any questions or suggestions, feel free to open an issue.
