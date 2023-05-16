@@ -1,20 +1,20 @@
-#Achyutas_Embedded_Projects
+# Achyutas_Embedded_Projects
 Welcome to the Achyutas_Embedded_Projects! This repository contains a collection of assignments related to Makefile, shell script, Linux cmds,
 C programs, and microcontroller programs.
 
-##Table of Contents
+## Table of Contents
   1. Introduction
   2. Folder Structure
   3. Usage
   4. Contributing
   5. License
 
-###Introduction
+### Introduction
 This repository serves as a centralized location for storing and organizing my daily assignments. 
 The assignments primarily focus on Makefile, Linux cmd's, Shell script, C programming, and microcontroller programming 
 providing a diverse range of practical exercises to enhance my skills in these areas.
 
-###Folder Structure
+### Folder Structure
 The repository is structured as follows:
 
 Makefile: This folder contains assignments related to makefiles. It covers topics such as creating, modifying, and managing makefiles for building projects.
@@ -29,7 +29,7 @@ such as GPIO operations.
 
 Feel free to explore each folder and its respective assignments to find the topics that interest you or align with your learning goals.
 
-###Usage
+### Usage
 To use the assignments in this repository, follow these steps:
 
   1. Clone the repository to your local machine using the following command:
@@ -46,7 +46,7 @@ To use the assignments in this repository, follow these steps:
       git push origin main
       Repeat steps 2-5 for each assignment you want to complete or upload.
 
-###Contributing
+### Contributing
 Contributions to this repository are welcome! If you would like to contribute, follow these steps:
 
   1. Fork the repository to your GitHub account.
@@ -61,7 +61,7 @@ Contributions to this repository are welcome! If you would like to contribute, f
 
   6. Once your pull request is reviewed and accepted, your changes will be merged into the main repository.
 
-###License
+### License
 The contents of this repository are under [insert your chosen license here]. Please review the license file for more details.
 
 We hope you find these assignments helpful in your learning journey. 
