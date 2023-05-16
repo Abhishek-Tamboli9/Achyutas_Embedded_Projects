@@ -16,17 +16,17 @@ providing a diverse range of practical exercises to enhance my skills in these a
 ### Folder Structure
 The repository is structured as follows:
 
-Makefile: This folder contains assignments related to makefiles. It covers topics such as creating, modifying, and managing makefiles for building projects.
+**Makefile**: This folder contains assignments related to makefiles. It covers topics such as creating, modifying, and managing makefiles for building projects.
 
-Bash: This folder contains assignments related to Linux basics & Advanced commands and shell scripting. 
+**Bash**: This folder contains assignments related to Linux basics & Advanced commands and shell scripting. 
 It covers various shell scripting concepts, such as variables, loops, conditionals, file operations, and more.
 
-C: This folder contains assignments related to C programming. It includes programs on data conversions.
+**C**: This folder contains assignments related to C programming. It includes programs on data conversions.
 
-8051_basic_examples: This folder contains assignments related to 8051 microcontroller programming. It focuses on writing programs in C covering topics 
+**8051_basic_examples**: This folder contains assignments related to 8051 microcontroller programming. It focuses on writing programs in C covering topics 
 such as GPIO ops - Led blinking, LCD's.
 
-8051_modules: This folder contains the code related to timers, ADC, UART communication. 
+**8051_modules**: This folder contains the code related to timers, ADC, UART communication. 
 
 Feel free to explore each folder and its respective assignments to find the topics that interest you or align with your learning goals.
 
@@ -62,6 +62,6 @@ Contributions to this repository are welcome! If you would like to contribute, f
 
   6. Once your pull request is reviewed and accepted, your changes will be merged into the main repository.
 
-We hope you find these assignments helpful in your learning journey. 
+I hope you find these assignments helpful in your learning journey. 
 If you have any questions or suggestions, feel free to open an issue.
 Enjoy exploring and improving your skills with these assignments!
