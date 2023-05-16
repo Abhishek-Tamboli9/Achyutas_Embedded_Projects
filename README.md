@@ -24,7 +24,9 @@ It covers various shell scripting concepts, such as variables, loops, conditiona
 C: This folder contains assignments related to C programming. It includes programs on data conversions.
 
 8051_basic_examples: This folder contains assignments related to 8051 microcontroller programming. It focuses on writing programs in C covering topics 
-such as GPIO operations.
+such as GPIO ops - Led blinking, LCD's.
+
+8051_modules: This folder contains the code related to timers, ADC, UART communication. 
 
 Feel free to explore each folder and its respective assignments to find the topics that interest you or align with your learning goals.
 
