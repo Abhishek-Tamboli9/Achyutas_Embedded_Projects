@@ -1,0 +1,5 @@
+*********** vmstat – shows system memory, processes, interrupts, paging, block I/O, and CPU info.************
+
+procs -----------memory---------- ---swap-- -----io---- -system-- ------cpu-----
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st
+ 2  0  36608 164792 635960 789412    1   17   929   224  333  733 14  9 75  3  0

@@ -27,3 +27,6 @@ km@KernelMasters:~/Achyutas/workspace/Embedded_linux/Assignments/Bash/2-Advanced
               total        used        free      shared  buff/cache   available
 Mem:              2           1           0           0           0           0
 Swap:             1           0           1
+              total        used        free      shared  buff/cache   available
+Mem:        2588388     1020336      511404        7200     1056648     1412560
+Swap:       2097148           0     2097148
