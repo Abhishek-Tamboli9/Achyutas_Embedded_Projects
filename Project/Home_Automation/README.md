@@ -43,9 +43,9 @@ The project includes a top-level Makefile that handles the compilation of the en
 
 **Usage:**
 1. To build the project, navigate to the project directory and run the following command:
-  `$ make`		                          : By default it will generate executable for x86
-  `$ make CC=arm-linux-gnueabihf-gcc`	  : This will generate executable for ARM
+  - `$ make`		                          : By default it will generate executable for x86
+  - `$ make CC=arm-linux-gnueabihf-gcc`	  : This will generate executable for ARM
 2. To clean the build artifacts, run:
-  `$ make clean`
+  - `$ make clean`
 
 **Author:** Abhishek Tamboli
