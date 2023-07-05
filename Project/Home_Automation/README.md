@@ -11,17 +11,17 @@ drivers for ADXL345 accelerometer, BMP280 temperature and pressure sensor, DHT11
 ### Project Structure:
 The project directory structure is as follows:
 
-**-bin/**        		    : Directory for storing the compiled binary/executable files.
-**-include/**   		    : Directory containing project-wide header files.
+-bin/        		        : Directory for storing the compiled binary/executable files.
+-include/   		        : Directory containing project-wide header files.
   - global.h 	 	        : Global header file with common definitions and declarations.
-**-src/**        		    : Directory containing the source code files for the project.
-  **-ADXL345/**         : Directory for the ADXL345 accelerometer component.
+-src/        		        : Directory containing the source code files for the project.
+  - ADXL345/            : Directory for the ADXL345 accelerometer component.
     - adxl.c          	: Source code file for the ADXL345 driver.
     - Makefile        	: Makefile for compiling the ADXL345 driver.
-  **-AT24C256-EEPROM/** : Directory for the AT24C256 EEPROM component.
+  -AT24C256-EEPROM/     : Directory for the AT24C256 EEPROM component.
     - eeprom.c        	: Source code file for the AT24C256 EEPROM driver.
     - Makefile        	: Makefile for compiling the AT24C256 EEPROM driver.
-  **-BMP280/**          : Directory for the BMP280 temperature and pressure sensor component.
+  -BMP280/              : Directory for the BMP280 temperature and pressure sensor component.
     - bmp280.c        	: Source code file for the BMP280 driver.
     - bmp280_defs.h   	: Header file with definitions for BMP280 registers and constants.
     - bmp280.h        	: Header file with function prototypes for the BMP280 driver.
@@ -29,20 +29,20 @@ The project directory structure is as follows:
     - bmp_commons.c   	: Source code file with common functions for the BMP280 driver.
     - bmp_main.c      	: Main source code file for using the BMP280 driver.
     - Makefile        	: Makefile for compiling the BMP280 driver.
-  **-DHT11/**           : Directory for the DHT11 humidity and temperature sensor component.
+  -DHT11/               : Directory for the DHT11 humidity and temperature sensor component.
     - dht11.c         	: Source code file for the DHT11 driver.
     - Makefile        	: Makefile for compiling the DHT11 driver.
-  **-driver_code/**     : Directory for the main driver code and application.
+  -driver_code/         : Directory for the main driver code and application.
     - sensor_data.c   	: Main source code file for the application.
     - Makefile        	: Makefile for compiling the main driver code.
-  **-DS1307-RTC/**      : Directory for the DS1307 RTC (Real-Time Clock) component.
+  -DS1307-RTC/          : Directory for the DS1307 RTC (Real-Time Clock) component.
     - rtc.c           	: Source code file for the DS1307 RTC driver.
     - Makefile        	: Makefile for compiling the DS1307 RTC driver.
 
-**Makefile:**
+Makefile:
 The project includes a top-level Makefile that handles the compilation of the entire project. The Makefile is responsible for compiling the drivers and generating the final binary/executable file. It also provides targets for cleaning up the build artifacts.
 
-**Usage:**
+Usage:
 To build the project, navigate to the project directory and run the following command:
 $ make		                          : By default it will generate executable for x86
 $ make CC=arm-linux-gnueabihf-gcc	  : This will generate executable for ARM
