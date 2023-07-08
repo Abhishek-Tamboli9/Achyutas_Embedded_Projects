@@ -34,7 +34,7 @@ Feel free to explore each folder and its respective assignments to find the topi
 To use the assignments in this repository, follow these steps:
 
   1. Clone the repository to your local machine using the following command:
-      git clone https://github.com/your-username/repository-name.git
+      git clone https://github.com/Abhishek-Tamboli9/Achyutas_Embedded_Projects
   2. Navigate to the desired assignment folder (e.g., Makefile, Bash, C, 8051_Basics_examples).
 
   3. Inside each assignment folder, you will find the necessary files and instructions to complete the assignment. Read the assignment description and requirements carefully.
